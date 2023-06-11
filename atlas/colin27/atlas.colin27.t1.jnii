@@ -97,6 +97,6 @@
 		"NIIEndian_":"L"
 	},
 	"NIFTIData":{
-		"_DataLink_":"https://github.com/NeuroJSON-io/public/raw/main/atlas/colin27/atlas%3Ecolin27%3Et1.bnii:$.NIFTIData"
+		"_DataLink_":"https://github.com/NeuroJSON-io/public/raw/main/atlas/colin27/atlas.colin27.t1.bnii:$.NIFTIData"
 	}
 }
